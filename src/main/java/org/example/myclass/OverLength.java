@@ -1,0 +1,57 @@
+package org.example.myclass;
+
+public class OverLength {
+    void longMethod() {
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+        System.out.println("hoge");
+    }
+}

@@ -9,6 +9,10 @@ repositories {
     mavenCentral()
 }
 
+java {
+    sourceCompatibility = '17'
+}
+
 dependencies {
     // https://mvnrepository.com/artifact/fr.inria.gforge.spoon/spoon-core
     implementation 'fr.inria.gforge.spoon:spoon-core:11.0.0'
